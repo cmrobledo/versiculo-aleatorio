@@ -1,0 +1,3 @@
+function versiculoNuevo() {
+  location.reload();
+}
